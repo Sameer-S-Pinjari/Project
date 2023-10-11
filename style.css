@@ -63,7 +63,7 @@ html{
     border-radius: 9px;
 }
 .background{
-    background: rgb(0, 0, 0, 0.7) url('../h2.JPG');
+    background: rgb(0, 0, 0, 0.7) url('../h2.jpg');
     background-size: cover;
     background-blend-mode: darken;
 
